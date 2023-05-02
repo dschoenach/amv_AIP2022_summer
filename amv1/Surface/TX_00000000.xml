@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<?xml-stylesheet type="text/xsl" href="style.xsl"?>
-<STAT>
-<TAG>ALL</TAG>
-<VAR>Max T2m</VAR>
-<UNIT>deg C</UNIT>
-<PERIOD>20220601-20220630</PERIOD>
-</STAT>
